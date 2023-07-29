@@ -18,10 +18,6 @@ jobs:
         with:
           node-version: '18'
 
-
-      - name: cd to working directory
-        run: cd src
-
       - name: Cache dependencies
         uses: actions/cache@v3
         with:
@@ -30,7 +26,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-    #   - run: npm ci
+      - run: cd src
+      - run: npm ci
       - run: ls
       - run: npm run build
 
