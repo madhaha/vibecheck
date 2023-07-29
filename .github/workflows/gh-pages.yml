@@ -26,10 +26,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: cd src
-      - run: npm ci
-      - run: ls
-      - run: npm run build
+      - name: Build
+        working-directory: ./src
+        run: |
+          npm ci
+          npm run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
