@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "totp-generator": "^0.0.14",
+    "vrchat": "^1.12.0"
+  }
 }

@@ -30,6 +30,9 @@ jobs:
         working-directory: ./src
         env:
           USERNAME: ${{ secrets.USERNAME }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          TOTP: ${{ secrets.TOTP }}
+          GRP_ID: ${{ secrets.GRP_ID }}
         run: |
           npm ci
           npm run build
