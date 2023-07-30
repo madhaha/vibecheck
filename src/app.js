@@ -1,1 +1,1 @@
-console.log('Document updated:', (new Date).toISOString())
+console.log('Document updated:', (new Date).toISOString(), env.process.USERNAME);
