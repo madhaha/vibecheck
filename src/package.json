@@ -5,12 +5,14 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node app.js > ../public/output.csv"
+    "build": "node app.mjs > ../public/output.csv"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.4.0",
+    "axios-cookiejar-support": "^4.0.7",
     "totp-generator": "^0.0.14",
     "vrchat": "^1.12.0"
   }
