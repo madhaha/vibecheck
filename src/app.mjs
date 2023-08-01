@@ -23,8 +23,10 @@ const instance = wrapper(axios.create(
     })
 );
 
+const basepath = 'https://api.vrchat.cloud/api/1';
+
 // add the API base URL
-const AuthenticationApi = new vrchat.AuthenticationApi(configuration, 'https://api.vrchat.cloud/api/1', instance);
+const AuthenticationApi = new vrchat.AuthenticationApi(configuration, basepath, instance);
 
 // start the login sequence with basic auth. this will return an auth cookie
 await AuthenticationApi.getCurrentUser({
@@ -38,7 +40,7 @@ await AuthenticationApi.getCurrentUser({
 const token = totp(process.env.TOTP);
 await AuthenticationApi.verify2FA({code: token});
 
-const GroupsApi = new vrchat.GroupsApi(configuration, instance);
+const GroupsApi = new vrchat.GroupsApi(configuration, basepath, instance);
 const vibe = await GroupsApi.getGroupMembers(process.env.GRP_ID)
    
 console.log('Document updated:', (new Date).toISOString(), vibe.data);
