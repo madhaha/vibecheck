@@ -38,7 +38,7 @@ await AuthenticationApi.getCurrentUser({
 const token = totp(process.env.TOTP);
 await AuthenticationApi.verify2FA({code: token});
 
-const GroupsApi = new vrchat.GroupsApi(configuration);
+const GroupsApi = new vrchat.GroupsApi(configuration, instance);
 const vibe = await GroupsApi.getGroupMembers(process.env.GRP_ID)
    
 console.log('Document updated:', (new Date).toISOString(), vibe.data);
