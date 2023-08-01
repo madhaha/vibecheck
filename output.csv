@@ -1,1 +1,139 @@
-Document updated: 2023-07-30T15:39:12.720Z madhaha
+Document updated: 2023-08-01T23:27:36.832Z [
+  {
+    id: 'gmem_81948d57-6d60-46a6-93a9-d0027f69b0cf',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_0c45c726-4019-49b9-91e5-eb57cc9cafb6',
+    isRepresenting: false,
+    user: {
+      id: 'usr_0c45c726-4019-49b9-91e5-eb57cc9cafb6',
+      displayName: 'LuminaryPie',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/image/file_3b65682a-32db-4d67-b0b9-d65ebd949c0b/1/1280',
+      iconUrl: 'https://api.vrchat.cloud/api/1/file/file_7a96d3b3-e070-429c-9193-ed952277a7f9/1/'
+    },
+    roleIds: [
+      'grol_22ca79d2-82a2-4f93-8799-4114b18e7276',
+      'grol_27131666-70a8-4547-b444-63e62c7e9ac4',
+      'grol_2a25fc7c-ef06-4437-b4e6-b0b888b5fc5b',
+      'grol_5aded948-7a4f-4492-8c15-86367fa0c2ad',
+      'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557'
+    ],
+    mRoleIds: []
+  },
+  {
+    id: 'gmem_2888c83b-7fea-49ca-bc3f-eaaaf7f3a3d1',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_0e9a5b7a-6850-41c1-82e2-5397ef695cad',
+    isRepresenting: false,
+    user: {
+      id: 'usr_0e9a5b7a-6850-41c1-82e2-5397ef695cad',
+      displayName: 'Nyviah 5cad',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/file/file_0e7415de-bc4c-43c1-b458-6808bf33eb7e/1/',
+      iconUrl: 'https://api.vrchat.cloud/api/1/file/file_b8756c00-095b-49ca-8a78-18219926c994/1/'
+    },
+    roleIds: [ 'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557' ],
+    mRoleIds: []
+  },
+  {
+    id: 'gmem_f0971d79-124b-4eb0-ab8b-d80c3660490c',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_36c0a6f6-c198-4a6a-b312-6ff001848ae2',
+    isRepresenting: false,
+    user: {
+      id: 'usr_36c0a6f6-c198-4a6a-b312-6ff001848ae2',
+      displayName: 'Fenwood',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/image/file_dc9b20f1-2c20-4520-bf0b-f183c6b91c95/2/256',
+      iconUrl: ''
+    },
+    roleIds: [ 'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557' ],
+    mRoleIds: []
+  },
+  {
+    id: 'gmem_1389957a-b911-4acb-b7bd-0084cdc90ff1',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_4fe6133f-b845-4caa-8c04-3ff01a28757d',
+    isRepresenting: false,
+    user: {
+      id: 'usr_4fe6133f-b845-4caa-8c04-3ff01a28757d',
+      displayName: 'SilentHaste',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/image/file_ff357c75-1014-4e6b-8925-3e5a65b65a72/1/256',
+      iconUrl: ''
+    },
+    roleIds: [ 'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557' ],
+    mRoleIds: []
+  },
+  {
+    id: 'gmem_f386de93-5544-42f9-941d-e1d9d7e6a492',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_8947d092-2a84-4456-8af2-09786766ab9e',
+    isRepresenting: false,
+    user: {
+      id: 'usr_8947d092-2a84-4456-8af2-09786766ab9e',
+      displayName: 'Evan Johnson',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/image/file_92ef6051-c3ee-4ded-b7ef-395646e4315a/2/256',
+      iconUrl: ''
+    },
+    roleIds: [ 'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557' ],
+    mRoleIds: []
+  },
+  {
+    id: 'gmem_55450a67-dcfc-43af-8086-2783a8504a78',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_b51573ad-0713-4d13-ba86-15defff2d571',
+    isRepresenting: false,
+    user: {
+      id: 'usr_b51573ad-0713-4d13-ba86-15defff2d571',
+      displayName: 'Ceresynthia',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/image/file_2df6ff2b-d861-40af-9eb2-9da8a48baf8e/1/256',
+      iconUrl: ''
+    },
+    roleIds: [ 'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557' ],
+    mRoleIds: []
+  },
+  {
+    id: 'gmem_edf98c4b-e4c8-42a7-806a-f8f9bb36356c',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_e674af6f-2f46-4901-8662-082614245b0d',
+    isRepresenting: false,
+    user: {
+      id: 'usr_e674af6f-2f46-4901-8662-082614245b0d',
+      displayName: 'jace_morte117 5b0d',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/image/file_f1ff3e77-7a26-4e45-b217-35726e6c34c3/1/256',
+      iconUrl: ''
+    },
+    roleIds: [ 'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557' ],
+    mRoleIds: []
+  },
+  {
+    id: 'gmem_4c3c4d61-6f32-4eeb-ac77-f4f26f56c1af',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_e9b5ae9b-3197-400c-b5eb-75d6d8fb04cc',
+    isRepresenting: true,
+    user: {
+      id: 'usr_e9b5ae9b-3197-400c-b5eb-75d6d8fb04cc',
+      displayName: 'Tybersan',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/image/file_f1ce90ed-9919-4ea6-8529-b0a00a5a1baa/1/256',
+      iconUrl: ''
+    },
+    roleIds: [ 'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557' ],
+    mRoleIds: []
+  },
+  {
+    id: 'gmem_3b4c54ca-c285-4777-9ccc-75f1112a5566',
+    groupId: 'grp_e55bc615-f78a-4ff6-8650-65f1d72917fd',
+    userId: 'usr_f4dd6434-96ca-41ad-b119-4b5b426f09d2',
+    isRepresenting: true,
+    user: {
+      id: 'usr_f4dd6434-96ca-41ad-b119-4b5b426f09d2',
+      displayName: 'TrustedKiller',
+      thumbnailUrl: 'https://api.vrchat.cloud/api/1/image/file_7f275afd-60ed-4bfd-a4e2-ce069d1e0529/3/256',
+      iconUrl: ''
+    },
+    roleIds: [
+      'grol_27131666-70a8-4547-b444-63e62c7e9ac4',
+      'grol_2a25fc7c-ef06-4437-b4e6-b0b888b5fc5b',
+      'grol_5aded948-7a4f-4492-8c15-86367fa0c2ad',
+      'grol_7fbe0ca1-9f6b-4e52-b336-2144b1bae557'
+    ],
+    mRoleIds: []
+  }
+]
